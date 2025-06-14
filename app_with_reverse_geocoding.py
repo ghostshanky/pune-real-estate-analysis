@@ -8,7 +8,7 @@ import google.generativeai as genai
 import os
 
 # Configure Gemini API
-genai.configure(api_key="GEMINI_API_KEY")
+genai.configure(api_key="AIzaSyDerEllkn5Wu6m2ljE-XR6xRSeuv83NF7M")
 
 # Load the ML model
 ml_model = joblib.load('house_price_model.pkl')
