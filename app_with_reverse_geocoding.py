@@ -5,6 +5,7 @@ import joblib
 import pandas as pd
 import requests
 import google.generativeai as genai
+import os
 
 # Configure Gemini API
 genai.configure(api_key="GEMINI_API_KEY")
