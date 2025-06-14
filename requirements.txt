@@ -1,7 +1,8 @@
 Flask
 Flask-Cors
-pandas
 scikit-learn
+pandas
+numpy
 joblib
-google-generativeai
 requests
+google-generativeai
